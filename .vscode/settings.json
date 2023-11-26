@@ -1,0 +1,37 @@
+{
+    "spellright.language": [
+        "pt",
+        "en",
+        "cs",
+        "da",
+        "de",
+        "es",
+        "fr",
+        "it",
+        "hu",
+        "nl",
+        "pl",
+        "ro",
+        "fi",
+        "sv",
+        "vi",
+        "tr",
+        "el",
+        "ru",
+        "ar",
+        "hi",
+        "pa",
+        "te",
+        "ko"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "javascript",
+        "html"
+    ],
+    "liveServer.settings.port": 0,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.CustomBrowser": "chrome"
+}
